@@ -139,6 +139,15 @@ class Map<K, V> {
 
 	  }
 	}
+	
+	
+/*result: 
+3
+4
+null
+2
+false
+*/
 ```
 
 

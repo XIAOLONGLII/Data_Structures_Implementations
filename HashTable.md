@@ -1,4 +1,6 @@
 ### HashTable functions: map.get(key) map.remove(key) 
+Two most important things:
+Capacity and load_facotr 
 They are using using a constant time -> O(1)
 
 HashTable is thread safe.  HashMap is not thread safe. (1)

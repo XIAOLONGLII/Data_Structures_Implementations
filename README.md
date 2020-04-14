@@ -3,3 +3,4 @@
 1. HashTable 
 2. BST
 3. Heap (PriorityQueue) 
+4. String

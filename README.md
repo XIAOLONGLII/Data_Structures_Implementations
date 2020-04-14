@@ -4,3 +4,5 @@
 2. BST
 3. Heap (PriorityQueue) 
 4. String
+5. Stack
+6. Queue
